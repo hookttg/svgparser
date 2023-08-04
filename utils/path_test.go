@@ -2,8 +2,6 @@ package utils_test
 
 import (
 	"testing"
-
-	"."
 )
 
 func TestPathParser(t *testing.T) {
